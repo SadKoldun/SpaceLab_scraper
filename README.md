@@ -1,2 +1,2 @@
-Асинхронный скрапер данных с сайта webscraper.io
-Используется библиотека BeautifulSoup 4
+Async scrapper for webscraper.io
+BeautifulSoup 4 usage
